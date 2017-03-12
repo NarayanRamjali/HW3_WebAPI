@@ -1,0 +1,47 @@
+{
+	"id": "f5849d5b-76d9-138f-4762-3c5a263dcfdf",
+	"name": "Token",
+	"description": "",
+	"order": [
+		"29599681-ecf1-c2b6-2cda-c66b6be11930"
+	],
+	"folders": [],
+	"timestamp": 1489294717329,
+	"owner": "1501553",
+	"public": false,
+	"requests": [
+		{
+			"id": "29599681-ecf1-c2b6-2cda-c66b6be11930",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "https://rsmjsli1991-test.apigee.net/oauth/client_credential/accesstoken?grant_type=client_credentials",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "f5849d5b-76d9-138f-4762-3c5a263dcfdf",
+			"data": [
+				{
+					"key": "client_id",
+					"value": "LmJIca2pezKT8Eob1KJBjdFobKvcZrbJ",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "client_secret",
+					"value": "p9KAfqJVFFZ0qmUw",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"name": "https://rsmjsli1991-test.apigee.net/oauth/client_credential/accesstoken?grant_type=client_credentials",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1489294757689,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

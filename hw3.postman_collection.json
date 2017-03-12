@@ -1,0 +1,34 @@
+{
+	"id": "86de460e-6837-e33f-f5e2-d97068b892c7",
+	"name": "hw3",
+	"description": "",
+	"order": [
+		"f1543a32-5b0e-4c68-1281-bc4feb65c02f"
+	],
+	"folders": [],
+	"timestamp": 1489294881534,
+	"owner": "1501553",
+	"public": false,
+	"requests": [
+		{
+			"id": "f1543a32-5b0e-4c68-1281-bc4feb65c02f",
+			"headers": "client_id: LmJIca2pezKT8Eob1KJBjdFobKvcZrbJ\nclient_secret: p9KAfqJVFFZ0qmUw\n",
+			"url": "http://rsmjsli1991-test.apigee.net/homework3",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "86de460e-6837-e33f-f5e2-d97068b892c7",
+			"data": [],
+			"dataMode": "urlencoded",
+			"name": "http://rsmjsli1991-test.apigee.net/homework3",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1489294940614,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
